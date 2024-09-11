@@ -1,0 +1,79 @@
+.bg-container{
+    background-color: rgb(19, 116, 103);
+}
+.logo{
+    
+    height:100%;
+}
+.line{
+    border-right: 6px solid rgb(224, 210, 192);
+    height:100%;
+    margin:5px;
+}
+.tagline{
+    color:rgb(224, 210, 192);
+    margin:5px;
+    padding-top:38px;
+}
+.details-logo-info-yellow{
+    background-color:rgb(224, 210, 192);
+    align-items: center;
+    border-top-left-radius: 380px;
+    border-bottom-left-radius:380px;
+    border-top-right-radius:100px;
+    border-bottom-right-radius:100px;
+}
+.hTitle{
+    color: rgb(28, 119, 107);
+    font-size: 15px;
+    font-weight:700;
+}
+.personLogo{
+    width:180px;
+    height: 180px;
+    
+}
+.pTitle{
+    color: rgb(28, 119, 107);
+    font-size: 15px;
+    font-weight:500;
+}
+.email-id-container{
+    background-color:#ffffff;
+    color: rgb(28, 119, 107);
+    font-size:15px;
+    font-weight:500;
+    padding-left: 200px;
+}
+.details-logo-info-green{
+    background-color: rgb(28, 119, 107);
+    border-top-left-radius:100px;
+    border-bottom-left-radius:100px;
+    border-top-right-radius: 380px;
+    border-bottom-right-radius:380px;
+}
+.hTitle-notgreen{
+    color: rgb(224, 210, 192);
+    font-size: 15px;
+    font-weight:700;
+}
+.pTitle-notgreen{
+    color: rgb(224, 210, 192);
+    font-size: 15px;
+    font-weight:500;
+}
+.info-bg-container{
+    background-color:lavenderblush;
+}
+.info-para{
+    color: black;
+    font-size:15px;
+}
+.footer-bg-container{
+    background-color: rgb(28, 119, 107);
+}
+.footer-para{
+    color: rgb(224, 210, 192);
+    font-size: 15px;
+    text-transform: uppercase;
+}
