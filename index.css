@@ -15,6 +15,9 @@
     margin:5px;
     padding-top:38px;
 }
+.welcome-title{
+    font-size: 42px;
+}
 .details-logo-info-yellow{
     background-color:rgb(224, 210, 192);
     align-items: center;
@@ -35,7 +38,7 @@
 }
 .pTitle{
     color: rgb(28, 119, 107);
-    font-size: 15px;
+    font-size: 13px;
     font-weight:500;
 }
 .email-id-container{
